@@ -27,6 +27,13 @@ Then I was asked to also add one more bit of scraping to pull in the beautiful s
 ![working jupyter code](https://user-images.githubusercontent.com/102183530/173260774-108f9302-1450-45b2-a879-5702e0afe9dc.png)
 ###### Figure 2:  Started with working Jupyter Notebook code to return the hemisphere images and titles.
 
-After cleaning and updating the html, I also added a picture behind the button and added some styling to the table.
+After cleaning and updating the html, I also added a picture behind the button, changed the heading color for ease of reading, and added some styling to the table.
+![new page top](https://user-images.githubusercontent.com/102183530/173264545-e5c15a0a-afc5-4bd2-b085-4904021060a3.png)
+###### Figure 3: Top of the stylized page with the hemispheres (see below).
+
 ![hemispheres_mars](https://user-images.githubusercontent.com/102183530/173261035-8ed39e74-7ea7-42d9-9f40-e0be1492cf81.png)
-###### Figure 3:  Shows the updated hemispheres and table styling.
+###### Figure 5:  Shows the updated hemispheres and table styling.
+
+It was also nice to see the MongoDB mars_app working in the background.  Here you can see what has loaded into the mars collection.
+![Mars DB collection](https://user-images.githubusercontent.com/102183530/173264649-bc15291d-32b8-45ae-baa9-a09c82386b3d.png)
+###### Figure 6: MongoDB in action!
