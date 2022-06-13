@@ -18,3 +18,4 @@ I was hired to automate a web browser to visit different websites to extract dat
 - Bootstrap 3
 
 ## Results
+
