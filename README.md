@@ -18,4 +18,15 @@ I was hired to automate a web browser to visit different websites to extract dat
 - Bootstrap 3
 
 ## Results
+The first app.py, scraping.py, and html index returned the newest Mars article, a featured picture, and the Mars facts table.  
+![Initial Mars webpage](https://user-images.githubusercontent.com/102183530/173260853-f65dacfe-fe40-4c03-ad33-089feb837f54.png)
+###### Figure 1: The intitial local web page shows, the basic button in a header, the article and title, the featured image and table.
 
+Then I was asked to also add one more bit of scraping to pull in the beautiful shots of the hemispheres of Mars.  After assuring the code worked in Jupyter Notebook (see below); I then refracted and cleaned, while making it into a more useful tool.
+
+![working jupyter code](https://user-images.githubusercontent.com/102183530/173260774-108f9302-1450-45b2-a879-5702e0afe9dc.png)
+###### Figure 2:  Started with working Jupyter Notebook code to return the hemisphere images and titles.
+
+After cleaning and updating the html, I also added a picture behind the button and added some styling to the table.
+![hemispheres_mars](https://user-images.githubusercontent.com/102183530/173261035-8ed39e74-7ea7-42d9-9f40-e0be1492cf81.png)
+###### Figure 3:  Shows the updated hemispheres and table styling.
